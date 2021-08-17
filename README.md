@@ -1,11 +1,28 @@
-This is a small project which simulates a social media like application, done as a test exercise. The purpose of this test exercise is to learn new technologies/practices or practice with the currently used technologies.
+#### Overview:
+This is a small project which simulates a social media like application, done as a test exercise. The purpose of this test exercise is to learn new technologies/practices.
 
-Functionality:
+#### Description:
+  TBD
 
-Technology and practices:
-  - React.js (frontend) -> get familiar with React.js
-  - Node.js + Express.js (backend) -> practice these technologies
-  - PostgreSQL + pgAdmin (database) -> get familiar with PostgreSQL
-  - Docker -> get familiar with Docker
-  - Web app tests -> get a better understanding of testing for web apps
-  - Git + GitHub -> practice Git after using SVN for a couple of years
+#### Functionality:
+  TBD
+
+#### Technology and practices:
+  - **Frontend**:
+    - React.js => Get familiar with React.js
+  - **Backend**:
+    - Node.js + Express.js => N/A
+    - Supertest + Jest (testing and coverage) => Try out some other popular testing libraries
+    - Bunyan (logging) =>
+  - **Database**:
+    - PostgreSQL + pgAdmin => Get familiar with PostgreSQL and it's admin tool
+    - MySQL => Use this opportunity to learn a different MySQL Node.js library (mysql2)
+  - **Other**:
+    - Docker (maybe)
+
+#### TODOs:
+  - The entire client.
+  
+#### License
+Proprietary software, please view LICENSE.md.
+
